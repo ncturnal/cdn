@@ -1,1 +1,1 @@
-<a href="/logos/BRAND.md">Logos</a>
+<a href="/logo/BRAND.md">Logos</a>
