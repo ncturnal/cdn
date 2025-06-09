@@ -1,1 +1,1 @@
-/logos/BRAND.md
+<a href="/logos/BRAND.md">test</a>
